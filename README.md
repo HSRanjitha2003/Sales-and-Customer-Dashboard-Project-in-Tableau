@@ -61,6 +61,9 @@ Allow users to filter data by product information like category and subcategory 
 
 
 Sales Dashboard
+<img width="1216" height="810" alt="Screenshot 2025-09-24 102027" src="https://github.com/user-attachments/assets/31a08af2-95e2-4aea-be23-d50a7039b5a9" />
+
+Customers Dashboard
 <img width="1197" height="810" alt="Screenshot 2025-09-24 102107" src="https://github.com/user-attachments/assets/a094d33f-1910-4e6a-85f6-cd670afe8d13" />
 
 
